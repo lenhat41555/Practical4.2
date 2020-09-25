@@ -1,0 +1,13 @@
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.exe
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.deps.json
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.runtimeconfig.json
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.runtimeconfig.dev.json
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.dll
+C:\LN\Practical4.2\bin\Debug\netcoreapp3.1\Practical4.2.pdb
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.csprojAssemblyReference.cache
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.AssemblyInfoInputs.cache
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.AssemblyInfo.cs
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.csproj.CoreCompileInputs.cache
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.dll
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.pdb
+C:\LN\Practical4.2\obj\Debug\netcoreapp3.1\Practical4.2.genruntimeconfig.cache
